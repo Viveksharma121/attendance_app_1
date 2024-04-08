@@ -1,0 +1,3 @@
+[2024-02-25T07:24:00.577867+01:00] my_logger.ERROR: Unauthorized access [] []
+[2024-02-25T07:26:25.261387+01:00] my_logger.INFO: Unauthorized access [] []
+[2024-02-25T07:29:38.434534+01:00] my_logger.INFO: Unauthorized access {"ip":"::1"} []
